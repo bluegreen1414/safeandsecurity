@@ -6,7 +6,7 @@ At [Kapirti], we are committed to ensuring the safety and protection of children
 Commitment to Preventing Child Sexual Abuse and Exploitation (CSAE)
 We believe that the safety of children should be the highest priority. To that end, we have adopted the following measures to protect children from sexual abuse and exploitation:
 
-- Strict Content Moderation:** We use both automated and manual content moderation to monitor all user-generated content. Any content that promotes, facilitates, or depicts child sexual abuse or exploitation will be immediately removed, and the account responsible will be banned.
+- Strict Content Moderation: We use both automated and manual content moderation to monitor all user-generated content. Any content that promotes, facilitates, or depicts child sexual abuse or exploitation will be immediately removed, and the account responsible will be banned.
 - Age Verification: Users are required to provide age information when creating an account on our platform. We use this information to restrict access to inappropriate content and prevent underage users from accessing certain features.
 - Reporting and Flagging Mechanism: We have implemented an easy-to-use reporting system within the app that allows users to report inappropriate content, suspicious behavior, or any form of abuse. We encourage our users to immediately report any concerns they may have, and all reports are investigated thoroughly.
 - Real-Time Monitoring: Our team continuously monitors the platform for any potential signs of abuse or exploitation. We use state-of-the-art tools to detect inappropriate interactions, such as grooming, predatory behavior, or attempts to share explicit material.
